@@ -1,5 +1,6 @@
 <div align="center" width="50">
-<h1>👋 Hallo Pudding</h1>
+<h1>👋 Hello World!</h1>
+
 <p>
   Welcome to My GitHub Profile!<br>
   Hi there! I'm <b>Saif Ahmed</b>, a Mechanical Engineering student and a passionate <b>Front-End Developer</b>.  
@@ -7,7 +8,6 @@
   Thanks for stopping by!
 </p>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 <br>
 </div>
 
@@ -30,11 +30,11 @@
 ![Gamer](https://img.shields.io/badge/Gamer-9146FF?style=for-the-badge&logo=steam&logoColor=fff)
 
 
-```dart
+```js
 // List of tools and technologies I currently use
 
 let myTools = [
-  { ProgrammingLanguages: ["Javascript", "React"] },
+  { ProgrammingLanguages: ["JavaScript", "React"] },
   { OtherLanguages: ["HTML", "CSS", "Markdown", "Bootstrap"] },
   // { Database: [] },
   { Platforms: ["Mac", "GNU/Linux", "Windows"] },
